@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #fefce8;
+  color: #000000;
+}
+
+.neo-input {
+  @apply border-2 border-black p-2 rounded-none focus:outline-none focus:shadow-neo transition-all;
+}
+
+.neo-button {
+  @apply border-2 border-black px-4 py-2 font-bold transition-all shadow-neo active:shadow-neo-hover active:translate-x-[2px] active:translate-y-[2px] rounded-none;
+}
