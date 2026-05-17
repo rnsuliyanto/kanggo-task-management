@@ -1,6 +1,6 @@
 # Task Management System - Kanggo Technical Test
 
-Aplikasi Task Management System sederhana yang memungkinkan pengguna untuk mengelola tugas-tugas pribadi. Dibangun menggunakan React.js, Node.js (Express), dan MySQL dengan antarmuka bertema Neobrutalism.
+Aplikasi Task Management System sederhana yang memungkinkan pengguna untuk mengelola tugas-tugas pribadi. Dibangun menggunakan React.js, Node.js (Express), dan MySQL.
 
 ## Teknologi yang Digunakan
 - Frontend: React.js (Vite), Tailwind CSS
